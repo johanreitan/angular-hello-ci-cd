@@ -15,4 +15,4 @@ jobs:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NEW_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.MY_SITE_ID }}
           NETLIFY_DEPLOY_TO_PROD: true
-          build_directory: dist/first-app/browser
+          build_directory: dist/hello-johan/browser
